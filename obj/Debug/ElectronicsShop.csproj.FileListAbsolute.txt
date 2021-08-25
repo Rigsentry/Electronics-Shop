@@ -1,0 +1,7 @@
+C:\Users\YalamatiN\Downloads\ElectronicsShop\ElectronicsShop\bin\Debug\ElectronicsShop.exe.config
+C:\Users\YalamatiN\Downloads\ElectronicsShop\ElectronicsShop\bin\Debug\ElectronicsShop.exe
+C:\Users\YalamatiN\Downloads\ElectronicsShop\ElectronicsShop\bin\Debug\ElectronicsShop.pdb
+C:\Users\YalamatiN\Downloads\ElectronicsShop\ElectronicsShop\obj\Debug\ElectronicsShop.csprojAssemblyReference.cache
+C:\Users\YalamatiN\Downloads\ElectronicsShop\ElectronicsShop\obj\Debug\ElectronicsShop.csproj.CoreCompileInputs.cache
+C:\Users\YalamatiN\Downloads\ElectronicsShop\ElectronicsShop\obj\Debug\ElectronicsShop.exe
+C:\Users\YalamatiN\Downloads\ElectronicsShop\ElectronicsShop\obj\Debug\ElectronicsShop.pdb
