@@ -1,0 +1,13 @@
+C:\Users\philipst\source\repos\ElectronicsShop\ElectronicsShop\bin\Debug\netcoreapp3.1\ElectronicsShop.exe
+C:\Users\philipst\source\repos\ElectronicsShop\ElectronicsShop\bin\Debug\netcoreapp3.1\ElectronicsShop.deps.json
+C:\Users\philipst\source\repos\ElectronicsShop\ElectronicsShop\bin\Debug\netcoreapp3.1\ElectronicsShop.runtimeconfig.json
+C:\Users\philipst\source\repos\ElectronicsShop\ElectronicsShop\bin\Debug\netcoreapp3.1\ElectronicsShop.runtimeconfig.dev.json
+C:\Users\philipst\source\repos\ElectronicsShop\ElectronicsShop\bin\Debug\netcoreapp3.1\ElectronicsShop.dll
+C:\Users\philipst\source\repos\ElectronicsShop\ElectronicsShop\bin\Debug\netcoreapp3.1\ElectronicsShop.pdb
+C:\Users\philipst\source\repos\ElectronicsShop\ElectronicsShop\obj\Debug\netcoreapp3.1\ElectronicsShop.csproj.AssemblyReference.cache
+C:\Users\philipst\source\repos\ElectronicsShop\ElectronicsShop\obj\Debug\netcoreapp3.1\ElectronicsShop.AssemblyInfoInputs.cache
+C:\Users\philipst\source\repos\ElectronicsShop\ElectronicsShop\obj\Debug\netcoreapp3.1\ElectronicsShop.AssemblyInfo.cs
+C:\Users\philipst\source\repos\ElectronicsShop\ElectronicsShop\obj\Debug\netcoreapp3.1\ElectronicsShop.csproj.CoreCompileInputs.cache
+C:\Users\philipst\source\repos\ElectronicsShop\ElectronicsShop\obj\Debug\netcoreapp3.1\ElectronicsShop.dll
+C:\Users\philipst\source\repos\ElectronicsShop\ElectronicsShop\obj\Debug\netcoreapp3.1\ElectronicsShop.pdb
+C:\Users\philipst\source\repos\ElectronicsShop\ElectronicsShop\obj\Debug\netcoreapp3.1\ElectronicsShop.genruntimeconfig.cache
