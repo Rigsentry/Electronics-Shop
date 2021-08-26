@@ -1,0 +1,14 @@
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Electronics-Shop\Electronics-Shop\Electronics-Shop\obj\Debug\netcoreapp3.1\Electronics-Shop.csproj.AssemblyReference.cache
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Electronics-Shop\Electronics-Shop\Electronics-Shop\obj\Debug\netcoreapp3.1\Electronics-Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Electronics-Shop\Electronics-Shop\Electronics-Shop\obj\Debug\netcoreapp3.1\Electronics-Shop.AssemblyInfoInputs.cache
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Electronics-Shop\Electronics-Shop\Electronics-Shop\obj\Debug\netcoreapp3.1\Electronics-Shop.AssemblyInfo.cs
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Electronics-Shop\Electronics-Shop\Electronics-Shop\obj\Debug\netcoreapp3.1\Electronics-Shop.csproj.CoreCompileInputs.cache
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Electronics-Shop\Electronics-Shop\Electronics-Shop\bin\Debug\netcoreapp3.1\Electronics-Shop.exe
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Electronics-Shop\Electronics-Shop\Electronics-Shop\bin\Debug\netcoreapp3.1\Electronics-Shop.deps.json
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Electronics-Shop\Electronics-Shop\Electronics-Shop\bin\Debug\netcoreapp3.1\Electronics-Shop.runtimeconfig.json
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Electronics-Shop\Electronics-Shop\Electronics-Shop\bin\Debug\netcoreapp3.1\Electronics-Shop.runtimeconfig.dev.json
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Electronics-Shop\Electronics-Shop\Electronics-Shop\bin\Debug\netcoreapp3.1\Electronics-Shop.dll
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Electronics-Shop\Electronics-Shop\Electronics-Shop\bin\Debug\netcoreapp3.1\Electronics-Shop.pdb
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Electronics-Shop\Electronics-Shop\Electronics-Shop\obj\Debug\netcoreapp3.1\Electronics-Shop.dll
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Electronics-Shop\Electronics-Shop\Electronics-Shop\obj\Debug\netcoreapp3.1\Electronics-Shop.pdb
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Electronics-Shop\Electronics-Shop\Electronics-Shop\obj\Debug\netcoreapp3.1\Electronics-Shop.genruntimeconfig.cache
