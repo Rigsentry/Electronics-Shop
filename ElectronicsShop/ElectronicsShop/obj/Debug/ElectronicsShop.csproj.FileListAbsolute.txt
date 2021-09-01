@@ -1,0 +1,7 @@
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Electronics-Shop\ElectronicsShop\ElectronicsShop\bin\Debug\ElectronicsShop.exe.config
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Electronics-Shop\ElectronicsShop\ElectronicsShop\bin\Debug\ElectronicsShop.exe
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Electronics-Shop\ElectronicsShop\ElectronicsShop\bin\Debug\ElectronicsShop.pdb
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Electronics-Shop\ElectronicsShop\ElectronicsShop\obj\Debug\ElectronicsShop.csprojAssemblyReference.cache
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Electronics-Shop\ElectronicsShop\ElectronicsShop\obj\Debug\ElectronicsShop.csproj.CoreCompileInputs.cache
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Electronics-Shop\ElectronicsShop\ElectronicsShop\obj\Debug\ElectronicsShop.exe
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Electronics-Shop\ElectronicsShop\ElectronicsShop\obj\Debug\ElectronicsShop.pdb
